@@ -1,3 +1,0 @@
-E:/duy tân/project_furuma_test/cmake-build-debug/CMakeFiles/project_furuma_test.dir
-E:/duy tân/project_furuma_test/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/duy tân/project_furuma_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir

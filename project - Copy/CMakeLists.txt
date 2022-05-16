@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.22)
+project(project)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(project main.cpp model/Person/Person.cpp model/Person/Person.h header.h model/Person/customer/customer.cpp model/Person/customer/customer.h model/Person/employee/employee.cpp model/Person/employee/employee.h model/Facility/facility.cpp model/Facility/facility.h model/Facility/House/house.cpp model/Facility/House/house.h model/Facility/Room/room.cpp model/Facility/Room/room.h model/Facility/Villa/villa.cpp model/Facility/Villa/villa.h controller/controller.cpp controller/controller.h controller/employee/employeeManagement.cpp controller/employee/employeeManagement.h controller/customer/customerManagement.cpp controller/customer/customerManagement.h controller/facility/facilityManagement.cpp controller/facility/facilityManagement.h controller/booking/bookingManagement.cpp controller/booking/bookingManagement.h controller/promotion/promotionManagement.cpp controller/promotion/promotionManagement.h service/EmployeeService.cpp service/EmployeeService.h service/CustomerService.cpp service/CustomerService.h ulti/ReadAndWriteEmployee.cpp ulti/ReadAndWriteEmployee.h ulti/ReadAndWriteCustomer.cpp ulti/ReadAndWriteCustomer.h)
