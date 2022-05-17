@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "project::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-project-Debug-26a07d14043ce0a3a182.json",
+					"jsonFile" : "target-project-Debug-5efb81a0deb7b2db04fd.json",
 					"name" : "project",
 					"projectIndex" : 0
 				}
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "E:/project/cmake-build-debug",
-		"source" : "E:/project"
+		"build" : "E:/duy_t\u00e2n/Furama/project - Copy/cmake-build-debug",
+		"source" : "E:/duy_t\u00e2n/Furama/project - Copy"
 	},
 	"version" : 
 	{

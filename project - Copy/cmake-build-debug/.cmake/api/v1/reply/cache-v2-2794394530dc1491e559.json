@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "e:/project/cmake-build-debug"
+			"value" : "e:/duy_t\u00e2n/Furama/project - Copy/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -623,7 +623,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "E:/project"
+			"value" : "E:/duy_t\u00e2n/Furama/project - Copy"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1239,7 +1239,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "E:/project/cmake-build-debug"
+			"value" : "E:/duy_t\u00e2n/Furama/project - Copy/cmake-build-debug"
 		},
 		{
 			"name" : "project_IS_TOP_LEVEL",
@@ -1263,7 +1263,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "E:/project"
+			"value" : "E:/duy_t\u00e2n/Furama/project - Copy"
 		}
 	],
 	"kind" : "cache",

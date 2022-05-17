@@ -1,3 +1,3 @@
-E:/project/cmake-build-debug/CMakeFiles/project.dir
-E:/project/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+E:/duy_tân/Furama/project - Copy/cmake-build-debug/CMakeFiles/project.dir
+E:/duy_tân/Furama/project - Copy/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/duy_tân/Furama/project - Copy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
